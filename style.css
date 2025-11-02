@@ -2,12 +2,12 @@
     font-size: 62.5%;
 
     /* Paleta de cores */
-    --bg-color: #2b2e34;          /* Cinza escuro (fundo principal) */
-    --text-color: #ffffff;        /* Texto branco */
-    --input-bg: #3a3d44;          /* Cinza médio para campos */
-    --border-color: #555a63;      /* Cinza claro para bordas */
-    --accent-color: #002b5b;      /* Azul marinho principal */
-    --accent-hover: #004080;      /* Azul marinho mais claro (hover) */
+    --bg-color: #2b2e34;          
+    --text-color: #ffffff;        
+    --input-bg: #3a3d44;          
+    --border-color: #555a63;      
+    --accent-color: #002b5b;    
+    --accent-hover: #004080;      
 }
 
 body {
